@@ -32,6 +32,19 @@ body{
 #circulo{
     display: block;
     max-width: 2%;
+    animation: pulsar 5s linear infinite;
+}
+@keyframes pulsar {
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 100;
+    }
+    100%{
+        opacity: 0;
+
+    }
 }
 p.aovivop{
     font-weight: bold;
@@ -260,6 +273,19 @@ p.barra{
     #circulo{
         display: block;
         max-width: 3%;
+        animation: pulsar 5s linear infinite;
+    }
+    @keyframes pulsar {
+        0%{
+            opacity: 0;
+        }
+        50%{
+            opacity: 100;
+        }
+        100%{
+            opacity: 0;
+    
+        }
     }
     p.aovivop{
         font-weight: bold;
