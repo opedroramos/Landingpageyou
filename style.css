@@ -164,6 +164,7 @@ p.engajp{
     width: 100%;
 }
 #imgcomen{
+    display: block;
     max-width: 100%;
 }
 #rodape1{
