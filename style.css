@@ -386,6 +386,13 @@ p.barra{
         font-size: 12px;
         color: #666666;
     }
+    #imgcomentarios{
+        width: 100%;
+    }
+    #imgcomen{
+        display: block;
+        max-width: 100%;
+    }
     #rodape1{
         display: flex;
         justify-content: center;
