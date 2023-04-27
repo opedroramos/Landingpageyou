@@ -7,7 +7,7 @@
     src: url('../fonts/Montserrat-VariableFont_wght.ttf');
 }
 body{
-    background-color: #000000;
+    background-color: #ffffff;
 }
 .smartplayer-call-action.callaction_64020537f29028000a873269_0 a.smartplayer-call-action--link{
     font-family: "M";
@@ -50,7 +50,7 @@ body{
     align-items: center;
     padding: 30px;
     flex-direction: column;
-    background-color: #121212;
+    background-color: #f5f5f5;
     margin-top: 100px;
 }
 #agruparr{
@@ -90,7 +90,7 @@ body{
 #rodape2{
     display: flex;
     justify-content: center;
-    background-color: #000000;
+    background-color: #f5f5f5;
     padding: 20px;
     flex-direction: column;
     align-items: center;
@@ -154,7 +154,7 @@ p{
         align-items: center;
         padding: 20px;
         flex-direction: column;
-        background-color: #121212;
+        background-color: #f5f5f5;
         margin-top: 100px;
     }
     #agruparr{
@@ -194,7 +194,7 @@ p{
     #rodape2{
         display: flex;
         justify-content: center;
-        background-color: #000000;
+        background-color: #f5f5f5;
         padding: 13.3px;
         flex-direction: column;
         align-items: center;
